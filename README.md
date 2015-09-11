@@ -11,7 +11,7 @@
   * Plant reproduction
   * Genetics
   * Speciation
-  * Realitic balancing (Ecosystems that resemble real ones)
+  * Realistic balancing (Ecosystems that resemble real ones)
   * **Javascript Version???**
 
 ### If you want to help
